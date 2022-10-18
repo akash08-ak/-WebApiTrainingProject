@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dbdd3bee-9e2d-4cb3-8d1e-30b1ca4b7e65": {
+      "ProjectGuid": "dbdd3bee-9e2d-4cb3-8d1e-30b1ca4b7e65",
+      "DisplayName": "EmplyeeLogin",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
